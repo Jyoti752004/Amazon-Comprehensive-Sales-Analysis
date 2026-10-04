@@ -18,7 +18,6 @@ An end-to-end Data Analytics project analyzing Amazon sales data from **2011 to 
 ```
 Amazon-Sales-Dashboard/
 │
-├── Amazon_2_Raw.xlsx          # Raw dataset (original Excel file)
 ├── preProcessing.ipynb        # Python data cleaning notebook
 ├── Amazon_2_Cleaned.csv       # Cleaned dataset (output of preprocessing)
 ├── Dashboard_pdf.pdf          # PDF export of all 4 dashboard pages
@@ -32,7 +31,7 @@ Amazon-Sales-Dashboard/
 | Property | Details |
 |---|---|
 | Source | Amazon Sales Data (2011–2014) |
-| Raw File | Amazon_2_Raw.xlsx |
+| Raw File | Amazon_2_cleaned.xlsx |
 | Rows | 3,203 records |
 | Columns | 10 features |
 | Date Range | January 2011 – December 2014 |
